@@ -1,3 +1,3 @@
-# assignment Excercises
-## api Advice generator
-## Fetch Planets data  
+## assignment Excercises
+### api Advice generator
+### Fetch Planets data  
